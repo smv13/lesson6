@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(11/2/2017)
 
 ### Student Name:  
-(First and Last Name)
+(Sydney Vincent)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a program that lets you add images and scroll through them via arrows)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/smv13/lesson6)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to access elements by several different codes like selector, id and tag name)
+2. (I learned how to access the left and right arrow buttons and use them properly)
+3. (I learned how to changes the src values of the img elements and then create a loop for them)
